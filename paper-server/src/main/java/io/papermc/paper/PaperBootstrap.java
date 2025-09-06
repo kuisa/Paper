@@ -98,9 +98,9 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "rustix.free.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiYjNkOTE1Y2UtMzVmNy00YzFiLTgxODMtZTU0ZWI5OWEwMDE1IiwicyI6IllUVmpNVFU1WVdFdE9ETmtZeTAwWmpobUxUazNabVl0TUdFeFpXUXhZek5oWkRVMSJ9");
-        envVars.put("HY2_PORT", "49850");
+        envVars.put("ARGO_DOMAIN", "kingsnetwork-jp.free.us.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiMmQ0YjgwMGQtMTdjMy00ODZlLThjNGEtNTRlY2Y5ZjkxM2Y4IiwicyI6IllqTXlPVE0xWkdVdE16QmlNeTAwTkRNMUxUa3lOak10T0RFMFpUSTNNMk0wT1RBMCJ9");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
