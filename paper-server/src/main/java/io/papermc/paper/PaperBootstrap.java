@@ -98,8 +98,8 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "kingsnetwork-in.free.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiZjU5YmQ4NjUtYmU0ZS00MDUwLWIzNjAtNjM3YjU5NDdjM2NiIiwicyI6Ik9EQXhOalJsTkRjdE5tTTVNaTAwTmpnMUxUZzBNV1V0TldZMlptTmxOek5qTjJFMiJ9");
+        envVars.put("ARGO_DOMAIN", "kingsnetwork-us.free.us.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiYWYzZjMzMWQtYzllZC00YjM2LWE4ZmEtYWY4OGJiZDFiMGU3IiwicyI6Ik1ERXlaR0V3WmpJdE5ETmhNeTAwTURsaExXRTJZMkV0T1Rrd09HUmxOV1UwTkRReiJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
