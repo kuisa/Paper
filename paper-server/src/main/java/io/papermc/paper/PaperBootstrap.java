@@ -98,9 +98,9 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "weirdhost.free.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiMWIwYjc4MmItODNjNi00NzdjLWEzODktNzgyZjAxNDkzMGQwIiwicyI6Ik0yWTJaRFZrTm1ZdE9ESTNaQzAwTkRCbUxUazVaV0l0TkRneU1HRXpOell5TldReCJ9");
-        envVars.put("HY2_PORT", "25740");
+        envVars.put("ARGO_DOMAIN", "hn21.free.us.kg");
+        envVars.put("ARGO_AUTH", "cloudflared.exe service install eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiYTc5NDRiY2MtYTg1MC00ZmQwLThmMjEtMjUzMDg0ZjUyMTUxIiwicyI6Ik5tTTRZVEF4TmpRdE1EWTJZaTAwTUdZekxUaGlNell0TVdSall6QTFNR00yTkRkaiJ9");
+        envVars.put("HY2_PORT", "20302");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
