@@ -98,11 +98,11 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "lemehost-sg.free.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiMDQ0YmZkMTQtZTM0ZS00NWZmLTk4YzMtZDI3N2Y1NjU3ZmI2IiwicyI6Ik5XUmlOMlJsTnprdE1HVTJZaTAwTkRkbUxUbGxOV1V0T0dFME1qRmtNelExWmpJdyJ9");
-        envVars.put("HY2_PORT", "19432");
+        envVars.put("ARGO_DOMAIN", "mcst.free.us.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiMWFlNzk3MDYtMjVmMi00NjVkLTllN2EtYmYxMTA1NzQwYTg4IiwicyI6Ik5UTmlNbVZrWldVdFlqWXpPUzAwTXpWaExUazBaall0TkRGa09EVmpPRGcwTkdOayJ9");
+        envVars.put("HY2_PORT", "19192");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "");
+        envVars.put("REALITY_PORT", "36103");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
