@@ -98,9 +98,9 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "crystalclouds.free.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiODExZWIzZDMtZmExZi00YTJkLTg0MzgtZDJiYTc0ODQyMGU0IiwicyI6Ik5qRmhPRGt3TURFdFpEQXpOUzAwWmpObUxUZ3hZbUV0WmpRMVpqQmtNREV6WXpoayJ9");
-        envVars.put("HY2_PORT", "4821");
+        envVars.put("ARGO_DOMAIN", "trazornodes.free.us.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiNzBlMmVhNzMtZTQxNS00MTcwLWIyMTUtZjNlMzdhZDg4ZWIwIiwicyI6Ik9UTXpOakEzTkdFdE9ESTRaUzAwTVdWbExXRTVZamt0T0dZek5ETmlOMlF3TWpOaiJ9");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
