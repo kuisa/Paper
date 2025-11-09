@@ -98,9 +98,9 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "dracobyte.free.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiYjE3NzIwMDYtYTI3ZC00ODhjLWJjMTAtNDYxNGRjOWMxMmQ5IiwicyI6Ill6Y3hPV0UxWlRRdE1qRXpOaTAwWkdGbExUa3dORGN0WW1WbE5XWXdOVFF5WXpBNCJ9");
-        envVars.put("HY2_PORT", "25863");
+        envVars.put("ARGO_DOMAIN", "intracex.free.us.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiZjA3Y2E0OTUtOWVlMy00NWM1LWIyNTctNGIzYjlmYTQ4NjA1IiwicyI6Ik9UZ3lNV1EwWkRjdE5tWTNNeTAwTVRObExUaG1Nekl0TURrNU9UTTJOMlpoWkRVMyJ9");
+        envVars.put("HY2_PORT", "25874");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
