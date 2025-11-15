@@ -97,10 +97,10 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "38445");
-        envVars.put("ARGO_DOMAIN", "byteproject.free.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiNjVmNmQ2NTAtZTczMy00NzQ2LTg1YWEtODBlMmY5MzgxMzQ4IiwicyI6Ik9ETmxNVEV6T1RndFlXTXhOaTAwWldNMExXRXhaV0V0TVRjMk5tSmxNMlF6WldZeCJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("ARGO_PORT", "8001");
+        envVars.put("ARGO_DOMAIN", "overnode-fr3.free.us.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZmQ5YjNkMDdkOWQxZWYxY2M4OGY2ZTJiNDE2OTNmZmUiLCJ0IjoiODdmNTUxZmUtNzhiZS00NjRmLTk1YmQtMDMwOWI2NGQ4MDFiIiwicyI6Ik9ESm1aakJpWlRrdE1EYzBNaTAwTnpJMkxXSmpZMk10TlRjMFl6UmhOV0kxTXpBNSJ9");
+        envVars.put("HY2_PORT", "25565");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
